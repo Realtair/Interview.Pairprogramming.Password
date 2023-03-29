@@ -1,0 +1,58 @@
+# .NET Core
+bin/
+obj/
+
+# Build results
+[Bb]uild/
+
+# Visual Studio Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+
+# NuGet
+*.nuget.config
+*.nupkg
+/packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results of Website projects
+[Dd]ebug/
+[Rr]elease/
+x64/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Visual Studio 2015
+.vs/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
