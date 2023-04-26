@@ -1,0 +1,12 @@
+<phpunit
+    bootstrap="autoload.php"
+    testdox="true"
+    colors="true"
+    cacheResult="false"
+>
+    <testsuites>
+        <testsuite name="PHPUnit">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
